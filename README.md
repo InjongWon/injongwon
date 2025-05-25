@@ -1,7 +1,9 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> New day in My repo
 New CS-grad student at the University of Toronto, specializing in Network Algorithms and Operating Systems. I build scalable distributed systems, re-architect monoliths into modular microservices, and dive into OS internals to push performance and reliability boundaries.  
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Full-stack+developer;AI+enthusiast;Lifelong+learner" alt="Typing SVG" />
+</p>
 
 <table width="100%">
   <tr>
