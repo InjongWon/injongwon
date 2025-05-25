@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up! Injong (Brian) here :)  
 I’m a final-year Computer Science student at the University of Toronto, specializing in Network Algorithms and Operating Systems. I build scalable distributed systems, re-architect monoliths into modular microservices, and dive into OS internals to push performance and reliability boundaries.  
 
-![snake gif](https://github.com/injongwon/injongwon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/injongwon/injongwon/blob/output/github-contribution-grid-snake.svg)  
 
 <table width="100%">
   <tr>
