@@ -2,8 +2,9 @@
 New CS-grad student at the University of Toronto, specializing in Network Algorithms and Operating Systems. I build scalable distributed systems, re-architect monoliths into modular microservices, and dive into OS internals to push performance and reliability boundaries.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines= SWE+Infra+Engineer;AI+enthusiast;Lifelong+learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=SWE-Infra+Engineer;AI+enthusiast;Lifelong+learner" alt="Typing SVG" />
 </p>
+
 
 <table width="100%">
   <tr>
