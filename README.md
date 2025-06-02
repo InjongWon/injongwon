@@ -67,5 +67,5 @@ cs-grad student at the University of Toronto, specializing in systems and large 
 <p align="center">
   <a href="https://portfolio-injongwon.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/injongwon"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:injong.won@mail.utoronto.ca"><img src="https://img.shields.io/badge/-injong.won@mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--   <a href="mailto:injong.won@mail.utoronto.ca"><img src="https://img.shields.io/badge/-injong.won@mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 </p>
