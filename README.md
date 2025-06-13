@@ -48,14 +48,14 @@ CS! grad student at the University of Toronto, specializing in systems and large
 
 <p align="center">
   <a href="https://github.com/injongwon/mono-to-microservices">
-    <img align="center" width="100%" src="" alt="mono-to-microservices" />
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=injongwon&repo=mono-to-microservices&theme=radical&show_owner=true" alt="mono-to-microservices" />
   </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injongwon&layout=compact&langs_count=8&theme=radical&count_private=true" />
+  <img width="90%" src= />
 </p>
 
     </td>
