@@ -55,7 +55,8 @@ CS! grad student at the University of Toronto, specializing in systems and large
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injongwon&layout=compact&langs_count=8&theme=radical&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=injongwon&show_icons=true&count_private=true&theme=radical&v=2" />
+
 </p>
 
     </td>
