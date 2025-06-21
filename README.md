@@ -1,5 +1,5 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> New day in My repo
-cs University of Toronto, Ms.c@columbia specializing in systems and large scale-ML. I build scalable distributed systems, re-architect monoliths into modular microservices, and into OS distributed internals systems with latency optimization
+CS University of Toronto, Ms.c@columbia specializing in systems and large scale-ML. I build scalable distributed systems, re-architect monoliths into modular microservices, and into OS distributed internals systems with latency optimization
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=SWE-core+Engineer;Network-ML;Infrastructure" alt="Typing SVG" />
