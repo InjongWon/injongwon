@@ -32,6 +32,7 @@ B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scal
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 ### ⚙️ Systems & Algorithms
 - Distributed ETL & batch pipelines  
