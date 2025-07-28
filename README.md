@@ -43,14 +43,6 @@ B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scal
     </td>
     <td width="40%">
 
-### 📂 Featured Project
-
-<p align="center">
-  <a href="https://github.com/injongwon/mono-to-microservices">
-    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=injongwon&repo=mono-to-microservices&theme=radical&show_owner=true" alt="mono-to-microservices" />
-  </a>
-</p>
-
 ### 📊 GitHub Stats
 
 <p align="center">
