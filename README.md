@@ -1,5 +1,5 @@
 ##  New day in My repo
-B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scale-ML. I build scalable distributed systems, re-architect monoliths into modular microservices, and into OS distributed internals systems with latency
+B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scale-ML.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Core-Engineer;ML-Engineer;Infrastructure" alt="Typing SVG" />
 </p>
 
