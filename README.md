@@ -51,11 +51,3 @@ B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injongwon&layout=compact&langs_count=8&theme=radical&count_private=true&v=2" />
 </p>
 
-    </td>
-  </tr>
-</table>
-
-### 🔗 Connect with me
-  <a href="https://github.com/injongwon"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<!--   <a href="mailto:injong.won@mail.utoronto.ca"><img src="https://img.shields.io/badge/-injong.won@mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
-</p>
