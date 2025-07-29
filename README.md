@@ -40,8 +40,8 @@ B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scal
 - Packet parsing & ARP/TCP over raw sockets  
 - Algorithm complexity & linear programming  
 
-    </td>
-    <td width="40%">
+
+
 
 ### 📊 GitHub Stats
 
