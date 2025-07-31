@@ -51,3 +51,7 @@ B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injongwon&layout=compact&langs_count=8&theme=radical&count_private=true&v=2" />
 </p>
 
+
+## Stats 
+![Profile View Counter](https://komarev.com/ghpvc/?username=injongwon&style=for-the-badge)
+
