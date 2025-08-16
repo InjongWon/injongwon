@@ -1,5 +1,5 @@
 ## 
-B.Sc@University of Toronto, M.Sc@columbia specializing in systems and large scale-ML.
+B.Sc@University of Toronto, specializing in systems and large scale-ML.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Core-Engineer;ML-Engineer;Infrastructure" alt="Typing SVG" />
 </p>
 
