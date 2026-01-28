@@ -1,7 +1,7 @@
 ## 
 B.Sc. in Computer Science @ University of Toronto — **ML & Systems**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer;ML+Inference+%26+Systems;Distributed+Systems;Infrastructure+%26+Databases" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=AI+Engineer;ML+Inference+%26+Systems;Distributed+Systems;Infrastructure+%26+Databases" alt="Typing SVG" />
 </p>
 
 <table width="100%">
