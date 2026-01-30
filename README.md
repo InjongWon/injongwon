@@ -8,7 +8,7 @@ B.Sc. in Computer Science @ University of Toronto — **ML & Systems**
   <tr>
     <td width="60%">
 
-## 🚀 Skills
+## Skills
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
