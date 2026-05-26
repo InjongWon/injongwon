@@ -10,46 +10,35 @@ B.Sc. in Computer Science @ University of Toronto — **ML/AI training & Inferen
 
 ## Skills
 
-### 💻 Languages
+### ⚙️ ML Inference & Model Optimization
+- PyTorch training & inference pipelines
+- GPU acceleration (CUDA, TensorRT)
+- High-performance inference (vLLM, Triton)
+- Quantization, pruning, distillation
+- Latency/throughput optimization for LLMs
+- End-to-end serving systems (RAG, inference APIs)
+- Optimization algorithms (AdamW, scheduling, regularization)
+
+### 🧠 Systems, Networking & Performance Engineering
+- Linux systems programming & OS internals
+- TCP/IP networking, packet-level debugging
+- Lock-free / low-latency architectures
+- CPU cache optimization & profiling (perf, Nsight)
+- Distributed systems & fault-tolerant design
+- Performance tuning & bottleneck analysis
+
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🌐 Backend, Web & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![REST](https://img.shields.io/badge/-REST-FF6C37?style=flat)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-### ☁️ Infrastructure & DevOps
+### 🧱 Infra & Deployment
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### ⚙️ Systems, Networking & Performance
-- Linux systems programming & OS internals  
-- TCP/IP, ARP, Ethernet, packet inspection  
-- Lock-free / low-latency data paths  
-- Profiling, caching, and performance tuning  
-- Distributed services & fault-tolerant design  
-
-### 🤖 Machine Learning & Inference
-- PyTorch training & inference pipelines  
-- Regularization (L1/L2, Dropout, BatchNorm, Early Stopping)  
-- Model evaluation & generalization analysis  
-- ML-integrated systems (data → inference → serving)
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
