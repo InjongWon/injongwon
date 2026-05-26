@@ -1,5 +1,5 @@
 ## 
-B.Sc. in Computer Science @ University of Toronto — **ML/AI training & Systems**
+B.Sc. in Computer Science @ University of Toronto — **ML/AI training & Inference*
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=GenAI+Inference+Engineer;ML+Inference+%26+Systems;Distributed+Systems" alt="Typing SVG" />
 </p>
